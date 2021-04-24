@@ -1,4 +1,4 @@
----
+w---
 title: Home
 sections:
   - type: hero_section
