@@ -2,7 +2,7 @@ w---
 title: Home
 sections:
   - type: hero_section
-    title: 'Hey, THis is Bhargav. .'
+    title: 'Hey, THis is Bhargav. Welcome to my world.'
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
