@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: 'Hey, THis is Bhargav. Welcome to my world.'
     subtitle: >-
-      .
+      I am .
     actions:
       - label: Contact Me
         url: /contact
