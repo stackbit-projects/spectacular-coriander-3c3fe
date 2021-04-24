@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: 'Hey, THis is Bhargav. Welcome to my world.'
     subtitle: >-
-      I am an Engineering student, Independent Music artist, Curious generalist habitating on this .
+      I am an Engineering student, Independent Music artist, Curious generalist habitating on this beautiful earth.
     actions:
       - label: Contact Me
         url: /contact
